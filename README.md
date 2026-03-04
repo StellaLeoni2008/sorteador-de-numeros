@@ -33,3 +33,5 @@ Este projeto foi fundamental para fortalecer minha base em JavaScript, consolida
 | :---: |
 
 
+<p align="right">
+04/03/2026
