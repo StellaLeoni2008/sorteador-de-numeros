@@ -14,8 +14,7 @@ O curso teve como foco principal a prática de lógica de programação com Java
 Neste repositório, apresento o código do projeto e a aplicação prática dos conceitos trabalhados ao longo do curso.
 
 ## 🧠 Conceitos Fundamentais Praticados
-
-- Durante o desenvolvimento deste projeto, foram aplicados conceitos essenciais de programação, como:
+Durante o desenvolvimento deste projeto, foram aplicados conceitos essenciais de programação, como:
 - Estruturação e organização de variáveis
 - Conversão e validação de dados de entrada
 - Uso de condicionais para controle de fluxo
