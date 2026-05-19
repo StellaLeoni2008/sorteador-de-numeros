@@ -53,7 +53,7 @@ Este projeto foi importante para fortalecer minha base em JavaScript e consolida
 ```bash id="kq6u8x"
 git clone https://github.com/StellaLeoni2008/sorteador-de-numeros.git
 ```
-2. Abra o arquivo index.html no navegador.
+2. Abra o arquivo ```index.html``` no navegador.
 
 <br>
 
